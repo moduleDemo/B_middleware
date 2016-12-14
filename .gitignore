@@ -1,0 +1,7 @@
+B_Middleware.xcodeproj/xcuserdata/
+B_Middleware.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+B_Middleware.xcodeproj/project.xcworkspace/xcuserdata/
